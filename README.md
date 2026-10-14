@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align ="center">
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&height=200&text=fionareboot&fontSize=70&fontAlign=50&fontAlignY=20&desc=Unity%20Game%20Developer&descSize=30&descAlign=50&descAlignY=50" />
+  <br>
+  <img src="https://img.shields.io/github/followers/fionareboot?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" />
+  <img src="https://img.shields.io/badge/UNITY | CSharp-007ACC?style=for-the-badge" />
+  </div>
+  
+## 
+## 🙋 About Me
 
-<!--
-**fionareboot/fionareboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+class Developer {
+    public string name = "fionareboot";
+    public string role = "Unity Game Client Developer";
+    public string[] skills = {
+        "Unity", "C++", "C#",
+        "MySQL", "Git / GitHub"
+    };
+    public string motto = "Game Dev Every Day";
+}
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+## 🙄 Visitor
+<div align ="center">
+  <img src="https://count.getloli.com/@fionareboot?theme=booru-lewd&padding=4&offset=10&align=center&scale=1&pixelated=1&darkmode=auto" alt="MoeCounter" />
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150&fontSize=60&fontalign=50" />
+</div>

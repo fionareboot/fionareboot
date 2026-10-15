@@ -19,6 +19,36 @@ class Developer {
     public string motto = "Game Dev Every Day";
 }
 ```
+## 
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="150"><b>🎮 Game Dev</b></td>
+    <td width="400">
+      <img src="https://skillicons.dev/icons?i=unity" alt="Game Dev" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cs,cpp" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Backend / DB</b></td>
+    <td>
+      <!-- 범용 SQL 대신 MySQL 아이콘을 사용했습니다. (필요시 postgres, sqlite 등으로 변경 가능) -->
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql,dotnet" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=rider,visualstudio,git,github" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 
 ##

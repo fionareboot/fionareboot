@@ -38,7 +38,6 @@ class Developer {
   <tr>
     <td align="center"><b>🗄️ Backend / DB</b></td>
     <td>
-      <!-- 범용 SQL 대신 MySQL 아이콘을 사용했습니다. (필요시 postgres, sqlite 등으로 변경 가능) -->
       <img src="https://skillicons.dev/icons?i=sqlite,mysql,dotnet" alt="Backend" />
     </td>
   </tr>
@@ -55,5 +54,8 @@ class Developer {
 ## 🙄 Visitor
 <div align ="center">
   <img src="https://count.getloli.com/@fionareboot?theme=booru-lewd&padding=4&offset=10&align=center&scale=1&pixelated=1&darkmode=auto" alt="MoeCounter" />
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150&fontSize=60&fontalign=50" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150&fontSize=60&fontalign=50"/>
 </div>

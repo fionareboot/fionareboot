@@ -13,7 +13,7 @@ class Developer {
     public string name = "fionareboot";
     public string role = "Unity Game Client Developer";
     public string[] skills = {
-        "Unity", "C++", "C#",
+        "Unity", "C++", "C#", ".NET Socket",
         "MySQL", "Git / GitHub"
     };
     public string motto = "Game Dev Every Day";
